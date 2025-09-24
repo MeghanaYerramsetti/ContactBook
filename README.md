@@ -1,4 +1,4 @@
-ContactHub - Contact Management System
+##ContactHub - Contact Management System
 https://img.shields.io/badge/Python-3.7%252B-blue
 https://img.shields.io/badge/Flask-2.0%252B-green
 https://img.shields.io/badge/License-MIT-yellow
